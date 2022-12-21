@@ -1,0 +1,68 @@
+/*styles.css*/
+
+.myDiv{
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+p{
+    color: white;
+    background-color: green;
+    font-size: 18px;
+}
+.odd{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    color:black;
+}
+.even_odder{
+    font-size: 36px;
+}
+#two{
+    color: blueviolet;
+    font-size: 36px;
+    background-color: white;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+button{
+    color: black;
+    background-color: orange;
+    text-align: left;
+    font-size: 18;
+    font-weight: bold;
+}
+#four{
+    background-color: green;
+    color:black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
+.font-and-size{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman' ,sans-serif;
+}
+.firstElement{
+    background-color: black;
+    color: white;
+}
+.secondElement{
+    background-color: yellow;
+    color: black;
+}
+
+.avatar.proportioned{
+    height: auto;
+    width: 300px;
+}
+.avatar.distorted{
+    height: 400px;
+    width: 200px;
+}
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
